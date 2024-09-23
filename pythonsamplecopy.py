@@ -1,0 +1,7 @@
+print('-------------')
+print('fff')
+print('-----------')
+print('-------------')
+print('fff')
+print('-------------')
+print('ggg')
